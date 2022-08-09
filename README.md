@@ -1,9 +1,4 @@
 # odin-recipes
 
-## What the project does
-## Why the project is useful
-## How users can get started with the project
-## Where users can get help with your project
-## Who maintains and contributes to the project
-
-First HTML project - Recipes
+Practice using html by creating a website for at least three recipes.
+The site uses basic foundational skills such as creating links, inserting images, and basic html syntax.
