@@ -1,0 +1,13 @@
+body {
+    color:white;
+    background-image: linear-gradient(105deg,pink,yellow,rgb(119, 119, 243));
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+h1, h4, p, h2, ul, ol {
+    background-image: linear-gradient(105deg,rgb(119, 119, 243),pink,yellow);
+}
