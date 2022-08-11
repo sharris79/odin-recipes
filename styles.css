@@ -1,8 +1,17 @@
 .website-title {
     text-align:center;
     color:rgb(245, 18, 200);
+    font-size:100px;
 }
 
 p {
     text-align:center;
+}
+
+img {
+    border:20px double rgb(239, 9, 209);
+}
+
+body {
+    background-color:rgb(244, 166, 233)
 }
